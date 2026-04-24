@@ -1,2 +1,2 @@
 # dns-adblock
-DNS ad block host list
+Hosts are taken from https://github.com/StevenBlack/hosts
